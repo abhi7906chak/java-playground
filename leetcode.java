@@ -46,4 +46,9 @@ class solution {
     String peek() {
         return stk.peek();
     }
+
+    public int removeDuplicates(int[] nums) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'removeDuplicates'");
+    }
 }
