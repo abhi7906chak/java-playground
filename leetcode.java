@@ -15,7 +15,7 @@ class solution {
     Stack<String> stk = new Stack<String>();
     // Stack<String> stk2 = new Stack<String>();
     String exp = "()({})[]";
-
+    
     boolean isvalid() {
         for (int i = 0; i < exp.length(); i++) {
 
