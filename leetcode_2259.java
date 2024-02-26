@@ -16,7 +16,7 @@ class Solution {
         boolean flag2 = true;
         String num = "";
         String num2 = "";
-        reverse(number);
+        // reverse(number);
         int l = number.length();
         for (int i = 0; i < number.length(); i++) {
             if (flag) {

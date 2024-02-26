@@ -59,7 +59,7 @@ public class runable_therads implements Runnable {
         Thread t1 = new Thread(r1);
         t1.setName("abhi");
         t1.setPriority(10);
-        System.out.println(t1.getId());
+        // System.out.println(t1.);
         System.out.println(t1.getName());
         t1.start();
         for (int i = 0; i < 10; i++) {
